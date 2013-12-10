@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["ryan.nielson@gmail.com"]
   spec.description   = %q{A Ruby on Rails gem that provides a generator for removing Turbolinks from a project.}
   spec.summary       = %q{A Ruby on Rails gem that provides a generator for removing Turbolinks from a project.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/RyanNielson/remove_turbolinks"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
