@@ -20,9 +20,9 @@ Or install it yourself as:
 
 To remove all traces of Turbolinks from a standard rails project run:
 
-    gem 'remove_turbolinks'
+    rails g remove_turbolinks:remove
 
-This will remove Turbolinks references from the Gemfile, application.html.erb, and application.js.coffee files.
+This will remove Turbolinks references from the Gemfile, application.html.erb, and application.js files.
 
 ## Contributing
 
